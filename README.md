@@ -3,15 +3,15 @@
 
 ## About Him
 
-- 👨‍🎓 He have a engineering degree in computer science and engineering.
-- 👨‍🎓 He have also Master programme in General management.
+- 👨‍🎓 He has an engineering degree in computer science and engineering.
+- 👨‍🎓 He also has a Master's degree in General Management.
 
-- 📊 He have 17 year  experience in Quality Assurance and Test Automation.
-- 📊 Since 2024 he is exploring and learning Data Science and Machine Learning.
+- 📊 He has 17 years of experience in Quality Assurance and Test Automation.
+- 📊 Since 2024, he has been exploring and learning Data Science and Machine Learning.
 
-- 🎆 He into Data Visualization  with multiple tools(tableau).
+- 🎆 He into Data Visualization  with multiple tools(tableau) and Grafana.
 
-- 🎶 When I was younger I was a good Football and cricket player, hence I am good team player in the beginning.
+- 🎶 When I was younger, I excelled in football and cricket, which helped me develop strong teamwork skills from an early age.
 
 
 ### What my LinkedIn says about me
