@@ -16,9 +16,10 @@
 
 ### What my LinkedIn says about me
 
-"I'm a data scientist who loves puzzles, especially those hidden in data. I'm learning to be a data scientist after working more than 10 years in quality assurance management and test automation. I thrive on the challenge of data science and the energy of communication.
+👋 Making the shift from a decade in Quality Assurance Management and Test Automation to pursue my passion for Data Science. 🚀
 
-I'm excited by the numbers in data science. Solving tricky problems and discovering new insights through analysis keeps me hooked. But it's not just about finding answers; it's equally important to explain them well"
+I'm excited by the numbers in data science. Solving tricky problems and discovering new insights through analysis keeps me hooked. 
+But it's not just about finding answers; it's equally important to explain them well"
 
 ### You can find my projects in my [Data Science Portfolio](https://github.com/kunnath/DatascienceProject)
 ### Languages and Tools
