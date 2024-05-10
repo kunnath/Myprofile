@@ -11,14 +11,14 @@
 
 - 🎆 He into Data Visualization  with multiple tools(tableau) and Grafana.
 
-- 🎶 When I was younger, I excelled in football and cricket, which helped me develop strong teamwork skills from an early age.
+- 🎶 When he was younger, he excelled in football and cricket, which helped him to develop strong teamwork skills from an early age.
 
 
 ### What my LinkedIn says about me
 
-👋 Making the shift from a decade in Quality Assurance Management and Test Automation to pursue my passion for Data Science. 🚀
+👋 Making the shift from a decade in Quality Assurance Management and Test Automation to pursue his passion for Data Science. 🚀
 
-I'm excited by the numbers in data science. Solving tricky problems and discovering new insights through analysis keeps me hooked. 
+He is excited by the numbers in data science. Solving tricky problems and discovering new insights through analysis keeps him hooked. 
 But it's not just about finding answers; it's equally important to explain them well"
 
 ### You can find my projects in my [Data Science Portfolio](https://github.com/kunnath/DatascienceProject)
