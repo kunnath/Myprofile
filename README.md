@@ -4,7 +4,7 @@
 ## About Him
 
 - 👨‍🎓 He has an engineering degree in computer science and engineering.
-- 👨‍🎓 He also has a Master's degree in General Management.
+- 👨‍🎓 He also has a Master's program in General Management.
 
 - 📊 He has 17 years of experience in Quality Assurance and Test Automation.
 - 📊 Since 2024, he has been exploring and learning Data Science and Machine Learning.
